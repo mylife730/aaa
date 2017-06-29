@@ -6,6 +6,7 @@ public class Demo {
 		System.out.println(444);
 		System.out.println(1);
 		System.out.println("a");
+		System.out.println(2);
 	}
 
 }
